@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Anastasiia 👋
 
-<!--
-**lehovaa/lehovaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 First-year Ph.D. student in Computer Science at the __University of Hawaiʻi at Mānoa__.
 
-Here are some ideas to get you started:
+My interests include:
+- Human Computer Interaction (HCI)
+- Machine Learning
+- Computer Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research
+
+- Co-author of an upcoming paper on distributed audio analytics:
+  *"Distributed PCM Audio Analytics Pipeline for Scalable BPM and Tonal Feature Extraction Using Celery and librosa"* (in preparation)
+
+## 💻 Languages & Tools
+Python • SQL • Java • C++ • Git • Linux • React
+
+---
+
+⚡ Fun fact: My GitHub profile picture is my cat __Cashe__ (the real owner of this account).
+
