@@ -1,6 +1,6 @@
 # Hi, I'm Anastasiia 👋
 
-🎓 First-year Ph.D. student in Computer Science at the __University of Hawaiʻi at Mānoa__.
+🎓 MS student in Computer Science at the __University of Hawaiʻi at Mānoa__.
 
 My interests include:
 - Human Computer Interaction (HCI)
